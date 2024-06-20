@@ -1,4 +1,14 @@
 {
+  "name": "task-1",
+  "version": "23.0.0",
+  "description": "dfecugbhdcdbhdcdcbh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.html",
+    "serve": "http-server"
+  },
+  "author": "Anastasia Verbenets",
+  "license": "ISC",
   "dependencies": {
     "http-server": "^14.1.1"
   }
