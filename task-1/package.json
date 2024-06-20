@@ -1,0 +1,11 @@
+{
+  "name": "task-1",
+  "version": "23.0.0",
+  "description": "dfecugbhdcdbhdcdcbh",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "author": "Anastasia Verbenets",
+  "license": "ISC"
+}
